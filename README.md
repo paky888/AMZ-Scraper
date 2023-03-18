@@ -8,3 +8,5 @@ Questo è uno script Python che utilizza la libreria BeautifulSoup per effettuar
 Il codice utilizza anche la libreria pyshorteners per accorciare i link dei prodotti, e prevede una ritardata di 30 secondi tra le richieste, per evitare il blocco dell'IP da parte di Amazon.
 
 Inoltre, è possibile personalizzare il codice inserendo il token del proprio bot Telegram e l'ID del proprio canale, oltre al codice Amazon Affiliate, per guadagnare commissioni sulle vendite effettuate tramite i link di affiliazione.
+
+NON MI ASSUMO NESSUNA RESPONSABILITA' NEL SUO UTILIZZO!!!
